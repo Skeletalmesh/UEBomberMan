@@ -44,14 +44,15 @@
 *.VC.db
 *.VC.opendb
 
-
+# Large SourceArt files, folders
+*.spp
+*.assbin
 
 # Binary Files
 */Binaries/*
 
 # Builds
 Build/*
-
 
 
 # Don't ignore icon files in Build
