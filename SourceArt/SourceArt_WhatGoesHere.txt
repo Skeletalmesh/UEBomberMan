@@ -1,0 +1,7 @@
+Custom Art assets
+  .Max and .FBX Files
+  .PSD files(UI) and sprites
+  .PBR textures
+  .wav files
+
+Excessively large files like Substance-painter projects .SPP will be avoided
