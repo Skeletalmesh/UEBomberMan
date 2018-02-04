@@ -12,19 +12,11 @@ My goal here is to get a Polished feel to the game rather than a Programmersque 
 >Have to blame on getting 2-pawns to move with a keyboard hack.  Took up most of 
 >my planned time.
 
-## Tasks remaining
-1 - Bomb blueprint, Spawn by player, timed destroy and explosion
-2 - Bomb - Ray-trace and destroy Breakables (Probably Tags needed)
-3 - Track bombs destroyed by each player
-4 - Random spawn of powerups when walls break
-5 - Each Powerup's gameplay implementation  (Assets for powerups)
+## Session 2
+Could not get Visual studio 2015 to work with my recent update to UE 4.18.2. Need VS2017 for it. The 128GB SSD on my laptop is a pain (Always on 10GB free space borderline). Gotta remove vs2015 to make space (D: for VS not a good idea).
 
-HUD Design
-Player1 stats 
-Player2 stats
-Pause Menu
-Game Over Dialogue/Menu
+Created a Project section with simple kanban board(Github only keeps getting better)
+Current task https://github.com/Skeletalmesh/UEBomberMan/projects/1#card-7172737  
+Taaking a couple of hours - break 
 
-Low-Priority
-  Particle effects for explosion of Bombs and other destructibles
-  Audio Effects and Game-state feedback via audio
+Overall, I am running out of the 15 hours.
